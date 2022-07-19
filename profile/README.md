@@ -1,3 +1,4 @@
+![KOHANA](.rsrc/kohana-banner.png)
 # Kohana 🍯
 Kohana is a dynamic honepot solution for scaling effective tripwires in the largest production environments in the world.
 
